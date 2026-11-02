@@ -1,4 +1,4 @@
-Invariant: edu-pat1
+Invariant: edu-pat-1
 Description: "Personnummer med 12 siffror"
 Expression: "identifier
  .where(system = 'http://electronichealth.se/identifier/personnummer')

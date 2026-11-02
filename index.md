@@ -47,7 +47,7 @@ Detta är en R4 IG. Inga av funktionerna den använder har ändrats i R4B, så d
   "name" : "FhirEducationKursIG",
   "title" : "Marias test-IG",
   "status" : "draft",
-  "date" : "2026-11-02T10:54:25+00:00",
+  "date" : "2026-11-02T12:31:37+00:00",
   "publisher" : "FHIR-utbildning",
   "description" : "En liten Implementation Guide som byggs upp steg för steg under FHIR-utbildningen.",
   "jurisdiction" : [{
